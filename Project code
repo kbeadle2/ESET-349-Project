@@ -1,6 +1,7 @@
 AREA, ESET349Project, CODE, READONLY
 EXPORT __main
 
+fds
 
 __main PROC
 
